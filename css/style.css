@@ -98,3 +98,56 @@ header{
 	color:#B9253B;
 }
 /*banner end*/
+/*works start*/
+.works{
+	padding: 90px 0;
+}
+.c_title{
+	margin: 0 auto 50px;
+	width: 70%;
+	/*border: 1px solid red;*/
+	text-align: center;
+}
+.c_h1{
+	margin: 0 0 30px;
+	font-family:sans-serif;
+	font-size:30px;
+	font-weight:700;
+	color:#161616;
+}
+.c_p{
+	margin: 0;
+	font-family:sans-serif;
+	font-size:16px;
+	font-weight:400;
+	color:#535D69;
+	line-height: 26px;
+}
+/*single item start*/
+.w_content{
+	overflow: hidden;
+	/*border: 1px solid black;*/
+}
+.single{
+	float: left;
+	padding: 20px 3.66%;
+	width: 26%;
+	/*border: 1px solid red;*/
+	text-align: center; 
+}
+.s_img{
+	margin: 0 auto;
+	width: 60%; 
+}
+.s_img img{
+	width: 100%
+}
+.single h3{
+	font-family:sans-serif;
+	font-size:20px;
+	font-weight:700;
+	color:#535D69;
+	line-height: 26px
+}
+/*single item end*/
+/*works end*/
